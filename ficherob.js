@@ -1,3 +1,3 @@
 console.log("----------------")
-console.log("Soy el fichero B")
+console.log("Soy el segundo fichero")
 console.log("----------------")
