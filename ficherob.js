@@ -1,3 +1,3 @@
-console.log("****************")
-console.log("Fichero III")
-console.log("****************")
+console.log("----------------")
+console.log("Soy el fichero B")
+console.log("----------------")
